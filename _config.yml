@@ -8,7 +8,7 @@ port: 8000
 safe: true
 
 # edit this section with your information
-baseurl: /insaliujia.github.io/
+baseurl:
 title: Jia Liu's Resume
 name: Jia LIU
 email: insaliujia@gmail.com
