@@ -1,0 +1,25 @@
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+port: 8000
+safe: true
+
+# edit this section with your information
+baseurl: /insaliujia.github.io/
+title: Jia Liu's Resume
+name: Jia LIU
+email: insaliujia@gmail.com
+email_full: insaliujia@gmail.com
+github: insaliujia
+tel: +33 07-61-16-33-46
+tel_full: tel:+33 07-61-16-33-46
+google_maps: 'https://www.google.fr/maps/place/B%C3%A2timent+Blaise+Pascal,+7+Avenue+Jean+Capelle+O,+69100+Villeurbanne/@45.7820122,4.8701105,17z/data=!3m1!4b1!4m2!3m1!1s0x47f4eaa1cfab455b:0x2a2722fd9019112'
+address: 7 Avenue Jean Capelle Ouest
+postcode: 69100
+city: Villeurbanne
+country: France
+google_analytics: UA-69778460-1
+
