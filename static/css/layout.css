@@ -18,6 +18,9 @@ body {
 
 a {
     text-decoration: none;
+	font-style: normal;
+    font-weight: bold;
+    color: rgb(100, 100, 100);
     /*background-color: rgba(39, 168, 34, 0.06);*/
 }
 
